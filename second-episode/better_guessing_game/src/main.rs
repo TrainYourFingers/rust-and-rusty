@@ -26,4 +26,3 @@ fn main() {
         Ordering::Equal => println!("You guessed it right."),
     }
     }
-}
